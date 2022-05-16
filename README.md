@@ -1,1 +1,1 @@
-# pillowproject
+# Pillow Project
